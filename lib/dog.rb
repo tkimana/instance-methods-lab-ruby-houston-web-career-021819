@@ -3,4 +3,4 @@ class Dog
     puts "Woof!"
   end
 end 
-f
+foo
