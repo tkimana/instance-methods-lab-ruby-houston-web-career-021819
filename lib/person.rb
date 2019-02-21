@@ -3,4 +3,5 @@ class Person
     puts "Hello World!"
   end 
 end 
-ada = talk.new
+ada = Person.new
+talk
