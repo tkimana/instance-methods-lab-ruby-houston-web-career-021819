@@ -4,4 +4,4 @@ class Person
   end 
 end 
 ada = Person.new
-talk
+ada
